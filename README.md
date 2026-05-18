@@ -44,7 +44,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/26VTeh5.mp4' title='Video-Walkthrough [creatorverse - Your personal dashboard of your favorite content-creators]' width='' alt='Video Walkthrough' />
+<!-- <img src='https://imgur.com/a/26VTeh5' title='Video-Walkthrough [creatorverse - Your personal dashboard of your favorite content-creators]' width='' alt='Video Walkthrough' />
+ -->
+
+<!-- Image failed to load so adding a video script -->
+
+<video src="https://imgur.com/26VTeh5.mp4" width="100%" controls autoplay loop muted></video>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
