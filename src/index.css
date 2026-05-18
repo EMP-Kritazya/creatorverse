@@ -1,0 +1,30 @@
+/* Center your layout on the viewport */
+body {
+  padding: 2rem 0;
+  background-color: #0f172a; /* Sleek rich dark slate background */
+}
+
+/* Modern styling overrides for form input elements using Pico variables */
+input,
+textarea {
+  border-radius: 8px !important;
+  border: 1px solid #334155 !important;
+  background-color: #1e293b !important;
+  color: #f8fafc !important;
+  transition:
+    border-color 0.2s ease,
+    box-shadow 0.2s ease !important;
+}
+
+input:focus,
+textarea:focus {
+  border-color: #38bdf8 !important;
+  box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.15) !important;
+}
+
+/* Modern styled buttons */
+button,
+[role="button"] {
+  border-radius: 8px !important;
+  font-weight: 600 !important;
+}
