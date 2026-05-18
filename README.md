@@ -44,7 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/AN70cke.gif' title='Video-Walkthrough [creatorverse - Your personal dashboard of your favorite content-creators]' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/AN70cke.gif' title='Video-Walkthrough [creatorverse - Your personal dashboard of your favorite content-creators]' width='700' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
