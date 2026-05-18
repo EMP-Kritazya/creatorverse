@@ -36,11 +36,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [
-  - Asynchronous UX Loaders: State loading hooks (loading, setLoading)
-  - Added window confirmation on deletion
-  - Fluid Client Router Navigation
-    ] List anything else that you added to improve the site's functionality!
+- Asynchronous UX Loaders: State loading hooks (loading, setLoading)
+- Added window confirmation on deletion
+- Fluid Client Router Navigation
 
 ## Video Walkthrough
 
